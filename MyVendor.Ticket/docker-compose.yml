@@ -1,0 +1,9 @@
+version: '2'
+services:
+  mysql:
+    image: mysql:8
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=tickets
+      - MYSQL_USER=tickets
+      - MYSQL_PASSWORD=tickets

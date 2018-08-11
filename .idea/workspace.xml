@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="837ea180-3c7b-411d-8b7a-4c6009df293e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyVendor.Ticket/var/phinx/phinx.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/MyVendor.Ticket/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1188618702">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="env" value="1" />
+          <entry key="php" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="1" />
+          <entry key="PHP" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="731" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="731" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/src/Module/AppModule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="e#39#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/var/phinx/phinx.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="e#6#40#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/di/src/AbstractModule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/di/src/Container.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyVendor.Ticket/src/Module/AppModule.php" />
+        <option value="$PROJECT_DIR$/MyVendor.Ticket/.env" />
+        <option value="$PROJECT_DIR$/MyVendor.Ticket/var/phinx/phinx.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/vimeo/psalm" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/package" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/aura/cli" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/web-param-module" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/aop" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/di" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/compiler" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/nocarrier/hal" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/koriym/printo" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/koriym/http-constants" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/koriym/psr4list" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/openlss/lib-array2xml" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/josegonzalez/dotenv" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/sunday" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/streamer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/resource" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/app-meta" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/query-repository" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/composer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/m1/env" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/muglug/package-versions-56" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/bear/qatools" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phploc/phploc" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/phpstan/phpstan-shim" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/mayflower/php-codebrowser" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/MyVendor.Ticket/vendor/psr/container" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="202" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1004" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bearsunday.learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bearsunday.learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bearsunday.learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bearsunday.learning" type="462c0819:PsiDirectoryNode" />
+              <item name="MyVendor.Ticket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bearsunday.learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bearsunday.learning" type="462c0819:PsiDirectoryNode" />
+              <item name="MyVendor.Ticket" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bearsunday.learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bearsunday.learning" type="462c0819:PsiDirectoryNode" />
+              <item name="MyVendor.Ticket" type="462c0819:PsiDirectoryNode" />
+              <item name="var" type="462c0819:PsiDirectoryNode" />
+              <item name="phinx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="837ea180-3c7b-411d-8b7a-4c6009df293e" name="Default Changelist" comment="" />
+      <created>1533984422725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533984422725</updated>
+      <workItem from="1533984426570" duration="1212000" />
+      <workItem from="1533985777602" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1213000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="202" y="-1057" width="1004" height="1057" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22141372" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/src/Module/AppModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#39#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/di/src/AbstractModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/vendor/ray/di/src/Container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyVendor.Ticket/var/phinx/phinx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#40#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
